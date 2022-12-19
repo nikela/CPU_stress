@@ -4,6 +4,7 @@ To compile, type:
 	make
 
 To run:
+	export LD_LIBRARY_PATH=/various/common_tools/intel-icc-and-tools/mkl/lib/intel64
 	./gemm <time_to_completion> <num_threads>
 
 
