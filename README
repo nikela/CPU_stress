@@ -1,0 +1,7 @@
+To compile on AlderLake:
+	make
+
+To run:
+	./gemm <time_to_completion> <num_threads>
+
+
