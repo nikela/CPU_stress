@@ -1,4 +1,6 @@
-To compile on AlderLake:
+Description: CPU-intensive benchmark, running Intel MKL GEMM with double-precision. The matrix sizes autotune to the L1 cache size.
+
+To compile, type:
 	make
 
 To run:
